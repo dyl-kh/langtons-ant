@@ -7,9 +7,9 @@ const Rule = (props) => {
   const directions = ["left", "right", "straight", "back"];
   return (
     <div key={props.index} className="relative flex gap-4 items-center">
-      <span className="min-w-[10px]">{props.index})</span>
+      <span className="min-w-[20px]">{props.index})</span>
       <span
-        className={`w-4 h-4 border-white border cursor-pointer`}
+        className={`w-4 h-4 border-white border cursor-pointer `}
         style={{ background: props.rule.color }}
         onClick={() => setColorPickerOpen(!colorPickerOpen)}
       />

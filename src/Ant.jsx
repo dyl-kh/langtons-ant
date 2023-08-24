@@ -5,7 +5,7 @@ const Ant = (props) => {
   const directions = ["left", "right", "up", "down"];
   return (
     <div key={props.index} className="relative flex gap-4 items-center">
-      <span className="min-w-[10px]">{props.index})</span>
+      <span className="min-w-[20px]">{props.index})</span>
       <input
         type="number"
         value={props.ant.x}
@@ -39,7 +39,7 @@ const Ant = (props) => {
         {props.ant.direction}
       </span>
       <div
-        className={`absolute z-10 translate-y-[50%] translate-x-[100px]  ${
+        className={`absolute z-10 translate-y-[50%] translate-x-[180px]  ${
           !directionMenuOpen && "opacity-0 pointer-events-none"
         }`}
       >
