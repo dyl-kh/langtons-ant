@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/langtons-ant/static/css/main.3ee0ec71.css",
-    "main.js": "/langtons-ant/static/js/main.b3265c6c.js",
+    "main.css": "/langtons-ant/static/css/main.6d98bce4.css",
+    "main.js": "/langtons-ant/static/js/main.97dc28a9.js",
     "static/js/787.4bca00f1.chunk.js": "/langtons-ant/static/js/787.4bca00f1.chunk.js",
     "index.html": "/langtons-ant/index.html",
-    "main.3ee0ec71.css.map": "/langtons-ant/static/css/main.3ee0ec71.css.map",
-    "main.b3265c6c.js.map": "/langtons-ant/static/js/main.b3265c6c.js.map",
+    "main.6d98bce4.css.map": "/langtons-ant/static/css/main.6d98bce4.css.map",
+    "main.97dc28a9.js.map": "/langtons-ant/static/js/main.97dc28a9.js.map",
     "787.4bca00f1.chunk.js.map": "/langtons-ant/static/js/787.4bca00f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ee0ec71.css",
-    "static/js/main.b3265c6c.js"
+    "static/css/main.6d98bce4.css",
+    "static/js/main.97dc28a9.js"
   ]
 }
