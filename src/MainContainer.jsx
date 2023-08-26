@@ -102,7 +102,10 @@ const MainContainer = () => {
 
   return (
     <div className="relative flex flex-col h-full items-center gap-5">
-      <div className="text-2xl font-semibold">Langton's Ant</div>
+      <div className="flex flex-col items-center w-full justify-center">
+        <div className="text-2xl font-semibold">Langton's Ant</div>
+        <div className="">By Dylan Khan</div>
+      </div>
       <Grid grid={grid} isRunning={isRunning} iterations={iterations} />
       <Menu
         height={height}
